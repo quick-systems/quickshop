@@ -9,8 +9,8 @@ Currently we will only support **Minecraft** but we are planning on adding **Fiv
 - [x] homepage
 - [x] pricing
 - [x] api
+- [x] Minecraft plugin
 
 ### in-progress:
 - [ ] documentation
 - [ ] dashboard
-- [ ] Minecraft plugin
